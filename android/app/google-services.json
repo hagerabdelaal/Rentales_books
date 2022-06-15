@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679942601300",
+    "project_id": "rentales-books-bb02b",
+    "storage_bucket": "rentales-books-bb02b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679942601300:android:d93d8f7ea9e881bcc7cbc1",
+        "android_client_info": {
+          "package_name": "com.example.rentales_books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679942601300-udbkgnlk9fjcoif23vmg6h3834bq18l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkpf7qWnr3SyrjJ3JRPSsT8ZB5Z5WLog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679942601300-udbkgnlk9fjcoif23vmg6h3834bq18l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
